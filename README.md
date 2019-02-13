@@ -27,7 +27,7 @@ git clone https://github.com/username/Quiz.git
 
 2. Open Android Studio, you will see a Welcome to Android window. Under Quick Start, select _Import Project (Eclipse ADT, Gradle, etc.)_
 
-3. Navigate to the directory where you saved the susi_android project, select the root folder of the project (the folder named "Quiz"), and hit OK. Android Studio should now begin building the project with Gradle.
+3. Navigate to the directory where you saved the Quiz project, select the root folder of the project (the folder named "Quiz"), and hit OK. Android Studio should now begin building the project with Gradle.
 
 4. Once this process is complete and Android Studio opens, check the Console for any build errors.
 
@@ -57,18 +57,19 @@ Used Encoding `encode=url3986`
 
 <table>
   <tr>
-    <td><img src="/screenshots/Screenshot_3.png" height = "480" width="270"></td>
-    <td><img src="/screenshots/Screenshot_4.png" height = "480" width="270"></td>
-    <td><img src="/screenshots/Screenshot_5.png" height = "480" width="270"></td>
+    <td><img src="/screenshots/1.jpg" height = "480" width="270"></td>
+    <td><img src="/screenshots/2.jpg" height = "480" width="270"></td>
+    <td><img src="/screenshots/3.jpg" height = "480" width="270"></td>
     
   </tr>
   <tr>
-    <td><img src="/screenshots/Screenshot_6.png" height = "480" width="270"></td>
-    <td><img src="/screenshots/Screenshot_7.png" height = "480" width="270"></td>
-    <td><img src="/screenshots/Screenshot_8.png" height = "480" width="270"></td>
+    <td><img src="/screenshots/4.jpg" height = "480" width="270"></td>
+    <td><img src="/screenshots/5.jpg" height = "480" width="270"></td>
+    <td><img src="/screenshots/6.jpg" height = "480" width="270"></td>
   </tr>
   <tr>
-    <td><img src="/screenshots/Screenshot_9.png" height = "480" width="270"></td>
+    <td><img src="/screenshots/7.jpg" height = "480" width="270"></td>
+    <td><img src="/screenshots/8.jpg" height = "480" width="270"></td>
   </tr>
 </table>
 
